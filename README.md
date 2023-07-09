@@ -56,6 +56,20 @@ Para executar o projeto localmente, siga as etapas abaixo:
 
 4. Explore o código-fonte para entender como as diferentes partes do projeto foram implementadas.
 
+## Fonte das Fotos
+
+As fotos utilizadas neste projeto foram obtidas a partir do site Pexels. O Pexels oferece uma ampla seleção de imagens gratuitas de alta qualidade, licenciadas para uso comercial e sem a necessidade de atribuição.
+
+Você pode encontrar as fotos utilizadas no projeto nos seguintes links:
+
+- [gabriel.jpeg](https://www.pexels.com/pt-br/foto/paulo-roberto-15024050/)
+- [isabela.jpeg](https://www.pexels.com/pt-br/foto/oculos-grama-cabelo-longo-cabelo-comprido-17428614/)
+- [laura.jpeg](https://www.pexels.com/photo/woman-in-grey-sleeveless-top-leaning-on-wall-1375849/)
+- [lucas.jpeg](https://www.pexels.com/pt-br/foto/homem-lendo-um-livro-3118214/)
+
+Agradecemos ao Pexels pela disponibilização dessas imagens de forma gratuita.
+
+
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests com melhorias, correções de bugs ou novas funcionalidades para este projeto.
