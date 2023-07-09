@@ -23,6 +23,12 @@ body {
 .navbar i {
   font-size: 1.5rem;
   color: #dadfe6;
+  transition: all 300ms ease;
+}
+
+.navbar i:hover {
+  color: #fe466d;
+  cursor: pointer;
 }
 
 .navbar i:nth-child(1) {
