@@ -2,12 +2,12 @@
 
 Bem-vindo ao projeto do Clone do Tinder!
 
-## Demonstração em Vídeo
+## Demonstração do Projeto
 ![Imagem do Projeto Clone Tinder](clone-tinder.png)
 
 Assista a uma breve demonstração do projeto no vídeo abaixo:
 
-[![Demonstração do Projeto](https://drive.google.com/file/d/1OzKkyfSTtyG22kGFUmwBw50dSvsWTlHX/view?usp=sharing)]
+[!(https://drive.google.com/file/d/1OzKkyfSTtyG22kGFUmwBw50dSvsWTlHX/view?usp=sharing)]
 
 
 ## Descrição
