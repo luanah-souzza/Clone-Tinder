@@ -3,7 +3,7 @@
 Bem-vindo ao projeto do Clone do Tinder!
 
 ## Demonstração do Projeto
-![Imagem do Projeto Clone Tinder](clone-tinder.png)
+![Imagem do Projeto Clone Tinder](img/clone-tinder.png)
 
 Assista a uma breve demonstração do projeto no vídeo abaixo:
 
